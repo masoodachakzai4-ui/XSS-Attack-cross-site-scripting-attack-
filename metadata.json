@@ -1,0 +1,6 @@
+{
+  "name": "XSS Security Lab",
+  "description": "Learn, Understand, Detect & Prevent Cross-Site Scripting (XSS) through interactive explanations, architecture diagrams, and a controlled practical training laboratory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
